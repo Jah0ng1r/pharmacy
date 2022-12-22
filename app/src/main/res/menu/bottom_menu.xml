@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/icHom"
+        android:enabled="true"
+        
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/icQarz"
+        android:enabled="true"
+        android:icon="@drawable/stethoscope"
+        android:title="@string/qarzdorlar" />
+    <item
+        android:id="@+id/icStat"
+        android:enabled="true"
+        android:icon="@drawable/ic_outline_bar_chart_24"
+        android:title="@string/statistika" />
+    <item
+        android:id="@+id/icProf"
+        android:enabled="true"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/akkount" />
+
+</menu>

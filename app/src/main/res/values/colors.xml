@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#69BCFC</color>
+    <color name="secondPrimary">#82C6FB</color>
+    <color name="secondPrimary2">#69BCFC</color>
+    <color name="black">#2E2F30</color>
+    <color name="upcomingBg">#fcfdfc</color>
+    <color name="soft">#F3F3F3</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#dddddd</color>
+    <color name="tolandi">#29BD49</color>
+    <color name="tolanmadi">#E84242</color>
+</resources>
